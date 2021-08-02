@@ -23,5 +23,4 @@
     echo "<script>alert('Su mensaje se ha enviado con éxito')</script>";
     echo "<script>setTimeout(\"location.href='index.html'\", 1000)</script>";
 
-
 ?>
